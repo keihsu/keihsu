@@ -1,4 +1,4 @@
-## Whale, hello world! 🐳 
+## Hi! 👋
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-525+_Hours-success)
 ![React](https://img.shields.io/badge/React-165+_Hours-9cf)
