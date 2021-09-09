@@ -18,12 +18,9 @@ I would love to connect with you so please reach out to connect or if you have a
  <tr><td><a href="README_ch.md" target="_blank">🇹🇼 Chinese</a></td></tr>
 </table> -->
 
-<!-- - 🌐 [www.keihsu.dev](http://www.keihsu.dev/)
+<!-- - 🌐 [www.keihsu.dev](http://www.keihsu.dev/) -->
 - 🔭 I’m currently looking for work as a **Web Developer** || **Software Engineer**
-- 🌱 I’m currently learning **Typescript** and **Mobile Development**
-- 💬 Ask me about **web development, coding bootcamps, skiing, and quality puns**
-- 🌎 Former exchange student 🇺🇸 → 🇧🇷 2013/2014
-- 😉  #unfor<strong>Greta</strong>ble -->
+- 🌱 I’m currently learning **Typescript** and reviewing **C++, Java, & Python**
 
 
 ---
@@ -32,5 +29,5 @@ I would love to connect with you so please reach out to connect or if you have a
 [![Gmail Badge](https://img.shields.io/badge/-kenneth@keihsu.dev-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kenneth@keihsu.dev)](mailto:kenneth@keihsu.dev)
 
 ---
-![Greta Schock's GitHub stats](https://github-readme-stats.vercel.app/api?username=keihsu&show_icons=true&theme=vue&count_private=true)
+![Kenneth Hsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=keihsu&show_icons=true&theme=vue&count_private=true)
 
