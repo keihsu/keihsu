@@ -12,7 +12,7 @@ I would love to connect with you so please reach out if you have any questions o
 - 🌐 [Check out my website!](http://www.keihsu.dev/)
 - 🔭 I’m currently looking for work as a **Web Developer** || **Software Engineer**
 - ⬆️ Currently allocating skill points into: **TypeScript, GraphQL & Next.js**
-- 🌱 Currently reviewing **C++, Java, & Python**
+- 🌱 Currently reviewing **C++ & Python**
 
 ---
 
