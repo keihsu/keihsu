@@ -1,6 +1,6 @@
 ## Hey there! 👋
 
-My name is Kenneth Hsu and I am a Full Stack Developer currently living in Los Angeles County, California. I enjoy making music and playing video games and I'm often working and coding out of cafes! I'm always changing up which cafe I visit, so let me know know if you have any recommendations! 
+My name is Kenneth Hsu and I am a Full Stack Developer currently living in Los Angeles County, California. I enjoy making music and playing video games and I'm often working and coding out of cafes! I'm like changing up which cafe I visit, so let me know know if you have any recommendations! 
 
 I would love to connect with you so please reach out if you have any questions or if you'd like to build something together!
 
