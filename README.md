@@ -11,7 +11,7 @@ I would love to connect with you so please reach out if you have any questions o
 
 - 🌐 [Check out my website!](http://www.keihsu.dev/)
 - 🔭 I’m currently looking for work as a **Web Developer** || **Software Engineer**
-- ⬆️ Currently allocating skill points into: **Next.Js & GraphQL**
+- ⬆️ Currently allocating skill points into: **Next.js, Three.js & GraphQL**
 - 🌱 Currently reviewing **C++ & Python**
 
 ---
