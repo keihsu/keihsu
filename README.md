@@ -55,7 +55,7 @@ I would love to connect with you so please reach out if you have any questions o
 ### Contact Me
 [![Linkedin Badge](https://img.shields.io/badge/-Kenneth_Hsu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keihsu/)](https://www.linkedin.com/in/keihsu/)
 [![Gmail Badge](https://img.shields.io/badge/-kenneth@keihsu.dev-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kenneth@keihsu.dev)](mailto:kenneth@keihsu.dev)
-
+<!-- 
 ---
-![Kenneth Hsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=keihsu&show_icons=true&theme=vue&count_private=true)
+![Kenneth Hsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=keihsu&show_icons=true&theme=vue&count_private=true) -->
 
