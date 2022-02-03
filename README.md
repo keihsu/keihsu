@@ -10,8 +10,7 @@ I would love to connect with you so please reach out if you have any questions o
 </table> -->
 
 - 🌐 [Check out my website!](http://www.keihsu.dev/)
-- 🔭 I’m currently looking for work as a **Web Developer** || **Software Engineer**
-- ⬆️ Currently allocating skill points into: **Go, Next.js, & GraphQL**
+- ⬆️ Currently allocating skill points into: **Go, AWS & GraphQL**
 - 🌱 Currently reviewing **C++ & Python**
 
 ---
